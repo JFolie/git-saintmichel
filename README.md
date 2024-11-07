@@ -8,7 +8,11 @@ Voici un repository contenant les devoir demandé par M.Brun :
 
 En groupe: Folie Julian / Moran Dylan
 
-Un repo au nom de dylan est également disponible à l'adresse suivante : https://github.com/DylanM1310/Devoir_code_source_git.git
+Un repo au nom de dylan est également disponible à l'adresse suivante :
 
-Un repo au nom de dylan est également disponible à l'adresse suivante : https://github.com/JFolie/git-saintmichel.git
+https://github.com/DylanM1310/Devoir_code_source_git.git
+
+Un repo au nom de julian est également disponible à l'adresse suivante :
+
+https://github.com/JFolie/git-saintmichel.git
  

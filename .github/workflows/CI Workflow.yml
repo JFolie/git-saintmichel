@@ -9,7 +9,7 @@ jobs:
     steps:
       # Étape 1 : Cloner le dépôt
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       # Étape 2 : Configurer Python
       - name: Setup Python
